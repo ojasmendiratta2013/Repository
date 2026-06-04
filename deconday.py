@@ -1,0 +1,12 @@
+#my second code
+print("Greetings human.")
+name = input("What's your name?")
+print("Hello " + name)
+age = input("What is your age?")
+print("Hello " + name + ",your age is " + age)
+favouritefood = input("What is you favourite food item?")
+print("Hello "+name+",your age is "+age+"and your favourite food item is "+favouritefood)
+hobby = input("What is your hobby?")
+print("Hello " + name + ", your age is " + age + ", your favourite food item is " + favouritefood + " and you enjoy " + hobby)
+bsf = input("Who is your bestfriend?")
+print("Hello " + name + ", your age is " + age + ", your favourita food item is " + favouritefood + ", you enjoy " + hobby + " and your bestfriend is " + bsf)
